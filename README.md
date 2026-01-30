@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # validação de Formulario com Laravel
 
 Validando form com Laravel, estou migrando usando o framework. a validação é com Laravel 12 e Tailwind + sql como banco de dados.
@@ -16,3 +17,4 @@ a validação é ben sucessedida e atendendo as boas praticas de programação.
 <br>
 <br>
 <img width="1358" height="669" alt="Image" src="https://github.com/user-attachments/assets/8e57a093-bc21-4d2f-b30b-e30d833ffd9b" />
+
