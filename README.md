@@ -12,3 +12,7 @@ a validação é ben sucessedida e atendendo as boas praticas de programação.
 <br>
 <br>
 
+### 🖼️ Ilustração
+<br>
+<br>
+<img width="1358" height="669" alt="Image" src="https://github.com/user-attachments/assets/8e57a093-bc21-4d2f-b30b-e30d833ffd9b" />
