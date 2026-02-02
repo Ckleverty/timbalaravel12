@@ -35,7 +35,7 @@
         @endif
 
         @if ($errors->any())
-            <div style="color: yellow;">
+            <div style="color: rgb(247, 6, 6);">
                 <ul>
                     @foreach ($errors->all() as $error)
                         <li>{{ $error }}</li>
