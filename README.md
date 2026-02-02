@@ -3,4 +3,12 @@
 Validando form com Laravel, estou migrando usando o framework. a validação é com Laravel 12 e Tailwind + sql como banco de dados.
 a validação é ben sucessedida e atendendo as boas praticas de programação.
 
-![Formulario Laravel](Pictures/Screenshots/form.png)
+### 🧰 Linguagens e Ferramentas
+
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+<br>
+<br>
+
