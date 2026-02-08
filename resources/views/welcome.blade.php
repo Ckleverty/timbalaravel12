@@ -3,7 +3,7 @@
 
 @section('content')
 
-    <H1>Bem vindo ao formulario de entrada</H1>
+    <H1>Bem vindo ao formulario de entrada com <strong>Laravel</strong></H1>
     <Div id="cadastrar">
 
     </Div>
