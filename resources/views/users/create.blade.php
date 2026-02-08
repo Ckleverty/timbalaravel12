@@ -9,7 +9,7 @@
         <div class="content">
                 <div class="content-title">
                         <h1 class="page-title">Cadatrar Usuarios</h1>
-                            <a href="#" class="btn-primary">Listar</a>
+                            <a href="{{ route('users.index') }}" class="btn-info">Listar</a>
                 </div>
 
          <x-alert/>

@@ -7,7 +7,8 @@ Route::get('/', function () {
 })->name('dashboard');
 
 
-
+#rota para o index
+Route:: get('index-user',[UserController::class, 'index'])->name('users.index');
 
 Route::get('/create-user', [UserController::class, 'create'])->name('users.create');
 
