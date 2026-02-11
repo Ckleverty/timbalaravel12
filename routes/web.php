@@ -14,3 +14,9 @@ Route::get('/create-user', [UserController::class, 'create'])->name('users.creat
 
 
 Route::post('/store-user', [UserController::class, 'store'])->name('users.store');
+
+
+Route::get('/edit-user/{user}', [UserController::class, 'edit'])->name('user.edit');
+
+
+Route::put('/update-user/{user}', [UserController::class, 'update'])->name('user.update');
