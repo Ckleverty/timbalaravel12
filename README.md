@@ -1,8 +1,7 @@
 
-# validação de Formulario com Laravel
+# CRUD com Laravel
 
-Validando form com Laravel, estou migrando usando o framework. a validação é com Laravel 12 e Tailwind + sql como banco de dados.
-a validação é ben sucessedida e atendendo as boas praticas de programação.
+Validando form e criando rotas para acesso as outras paginas, a listagem dos Usuarios é por paginação. a validação é com Laravel 12 e Tailwind + sql como banco de dados sucessedida e atendendo as boas praticas de programação.
 
 ### 🧰 Linguagens e Ferramentas
 
@@ -13,8 +12,14 @@ a validação é ben sucessedida e atendendo as boas praticas de programação.
 <br>
 <br>
 
-### 🖼️ Ilustração
+### 🏠 pagina Inicial
 <br>
-<br>
-<img width="1358" height="669" alt="Image" src="https://github.com/user-attachments/assets/8e57a093-bc21-4d2f-b30b-e30d833ffd9b" />
 
+###  👥 Cadastrar Usuarios
+<br>
+<img width="920" height="280" alt="Image" src="https://github.com/user-attachments/assets/1e08aed1-3f9b-431a-8855-3b95ee081e70" />
+<br>
+
+#### 📋 Listar usuarios
+<br>
+<img width="1275" height="479" alt="Image" src="https://github.com/user-attachments/assets/e4c8fc03-b759-45b6-9d19-597c313e8f5c" />
